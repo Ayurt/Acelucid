@@ -1,9 +1,7 @@
-﻿using System;
-using System.Text.RegularExpressions;
-
-namespace DateFinder
-{
-    class Program
+﻿    using System;
+    using System.Text.RegularExpressions;
+    
+    class DateCheck
     {
         static void Main(string[] args)
         {
@@ -23,4 +21,3 @@ namespace DateFinder
             }
         }
     }
-}
